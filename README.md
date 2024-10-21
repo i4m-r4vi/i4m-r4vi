@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development and Cyber Security**
 
-- 👨‍💻 All of my projects are available at [i4m-r4vi.netlify.app](i4m-r4vi.netlify.app)
+- 👨‍💻 All of my projects are available at [i4m-r4vi.netlify.app](https://i4m-r4vi.netlify.app)
 
 - 💬 Ask me about **HTML CSS JavaScript Jquery Bootstrap ReactJS Mongodb NodeJS ExpressJS**
 
