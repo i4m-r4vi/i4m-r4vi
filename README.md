@@ -32,6 +32,6 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="background-color:white"/> </a>   
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></p>
 
-![i4m-r4vi's Stats](https://github-readme-stats.vercel.app/api?username=i4m-r4vi&theme=&show_icons=true&hide_border=true&count_private=true)
-![i4m-r4vi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=i4m-r4vi&theme=&hide_border=true)
-![i4m-r4vi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i4m-r4vi&theme=&show_icons=true&hide_border=true&layout=compact)
+![i4m-r4vi's Stats](https://github-readme-stats.vercel.app/api?username=i4m-r4vi&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![i4m-r4vi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=i4m-r4vi&theme=dark&hide_border=true)
+![i4m-r4vi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i4m-r4vi&theme=dark&show_icons=true&hide_border=true&layout=compact)
