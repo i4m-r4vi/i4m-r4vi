@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MERN Stack Development and Cyber Security**
 
-- 👨‍💻 All of my projects are available at [i4m-r4vi.netlify.app](https://i4m-r4vi.netlify.app)
+- 👨‍💻 All of my projects are available at [i4m-r4vi.vercel.app](https://i4m-r4vi.vercel.app)
 
 - 💬 Ask me about **HTML CSS JavaScript Jquery Bootstrap ReactJS Mongodb NodeJS ExpressJS**
 
-- 📫 How to reach me **devgrproducts@gmail.com**
+- 📫 How to reach me **ksravishankar4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
